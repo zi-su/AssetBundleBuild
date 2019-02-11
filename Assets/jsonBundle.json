@@ -1,0 +1,7 @@
+{"data":
+    [
+        {"bundleName":"scene1_texture","assetPaths":["Assets/AssetBundle/Scene1/texture"]},
+        {"bundleName":"scene2_texture","assetPaths":["Assets/AssetBundle/Scene2/texture"]},
+        {"bundleName":"scene3_texture","assetPaths":["Assets/AssetBundle/Scene3/texture"]}
+    ]
+}
